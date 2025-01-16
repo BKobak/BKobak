@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Basia</h1>
+<h1 align="center">Hi 👋, I'm Basia!</h1>
 
 - Graduated with a bachelor's degree in Computer Science.
 
