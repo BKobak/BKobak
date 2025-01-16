@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Basia</h1>
-<h3 align="center">I just graduated with a bachelor's degree in computer science.</h3>
 
-- I currently **focus on my master application and try to develop my web dev skills.**
+- Graduated with a bachelor's degree in Computer Science.
+
+- Currently focusing on my MSc degree in Software Engineering at KCL.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
