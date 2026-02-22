@@ -57,9 +57,9 @@ function Home() {
                 src="https://img.icons8.com/clouds/100/linkedin.png"
                 />
             </a>
-        </div>
-        {/* Download CV Button */}
-        <div>
+            </div>
+            {/* Download CV Button */}
+            <div>
                 <a 
                     href="/BarbaraKobak_CV.pdf"
                     download
@@ -90,8 +90,8 @@ function Home() {
                     Download CV
                 </a>
 
-        </div>
-      </header>
+            </div>
+        </header>
     </div>
     )
 }
